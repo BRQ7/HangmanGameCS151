@@ -1,5 +1,5 @@
 /* HangmanGame.cpp - A hangman game that allows the user to customize the words for the game in a text file 
-   * Author:     Brandon Quandt
+   * Author:     Brandon Q
    * Module:     Final
    * Project:    Final Project
    * Problem Statement : Create a classic hangman game that allows the user to customize the games words list in a text file Words.txt, have the game also explain how to play the game along with having a visual hangman in ASCII for the player to visualize how much health the hangman has left and display how many guesses it took a player to win if they did win the game
